@@ -13,14 +13,14 @@ As a private motorist I want easily to
 * Best current price and place must be found without excessive navigation
 * Mobile support, one uses this app on the road
 * Price graphs for estimating what might happen to station price in the near future
-** automatic analysis not required at the moment
-** gasoline/diesel (local) price graphs 
-** crude oil price changes (global)
+  * automatic analysis not required at the moment
+  * gasoline/diesel (local) price graphs 
+  * crude oil price changes (global)
 
 ## Data sources
 
 * Any public website that collects local gasoline prices and allows private use of the data
-** If html is only public format then extract price data out of it
-*** If possible make it configurable (page urls, xpaths etc.)
+  * If html is only public format then extract price data out of it
+    * If possible make it configurable (page urls, xpaths etc.)
 * Public information about crude oil price changes, Bloomberg, Yahoo, Google, some other market data provider
-** Hopefully there are some sort of free APIs available
+  * Hopefully there are some sort of free APIs available
