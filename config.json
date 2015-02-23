@@ -1,0 +1,21 @@
+{
+  "server": {
+    "port": 8080
+  },
+  "db": {
+    "maxConnections" : 2,
+    "host"           : "localhost",
+    "user"           : "user",
+    "password"       : "",
+    "database"       : "userdb"
+  },
+  "extracts": [
+    {
+      "product_id": 1,
+      "station_id": 1,
+      "url": "",
+      "date_xpath": "",
+      "price_xpath": ""
+    }
+  ]
+}
